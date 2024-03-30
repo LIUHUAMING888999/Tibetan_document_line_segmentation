@@ -1,2 +1,2 @@
 # This is a Tibetan document line segmenation
-![alt text](/path/to/002.29.png "Tibetan document")
+![alt text](/non_borderImage/002.29.png "Tibetan document")
