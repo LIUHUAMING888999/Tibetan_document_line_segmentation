@@ -21,3 +21,19 @@
 
 ##The up vowel label in the origin image
 ![Baseline image](remove_up_vowel.png "remove up vowel in the image")
+
+## code run
+please run the main.m with matlab
+
+the result will be showed in the figure window
+
+Markdown 插入代码块：
+    ```matlab
+     
+    
+    3: 3 %  image_nums 
+    ```
+
+ 3: 3 %  image_nums 
+ 
+ The code in the line eight can be modified as 1: image_nums, it will segment all image in the non_borderImage folder
