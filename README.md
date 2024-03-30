@@ -1,7 +1,7 @@
 # Tibetan_document_line_segmentation
 This code is about the segmentation of Tibetan ancient literature documents
 
-##base line measure
+## base line measure
  
 ![base_line_1](https://github.com/LIUHUAMING888999/Tibetan_document_line_segmentation/assets/30866590/991e99ea-45e6-4ccf-94c0-425305043341)
 
