@@ -4,3 +4,6 @@
 
 ## The Binary image
 ![Tibetan Binary Image](/remove_border/002.29.png "Tibetan document")
+
+## The baseline image
+![Baseline image]()
