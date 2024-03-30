@@ -16,4 +16,8 @@
 
 
 ##The up vowel label in the origin image
-![Baseline image](up_vowel.png "baseline image")
+![Baseline image](up_vowel.png "up vowel labeled in the image")
+
+
+##The up vowel label in the origin image
+![Baseline image](remove_up_vowel.png "remove up vowel in the image")
